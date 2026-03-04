@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Learning-Progressive-blue?style=for-the-badge" alt="Learning"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status"/>
-  <br/>
-  <img src="https://github.com/binyaaminofficial/learnjava/actions/workflows/compile.yml/badge.svg" alt="Java Compilation CI"/>
 </div>
 
 <hr/>
@@ -61,20 +59,6 @@ Execute the compiled class in the Java Virtual Machine:
 ```bash
 java FileName
 ```
-
-## ⚙️ CI/CD Workflows
-
-This repository is equipped with **GitHub Actions** to automate the development lifecycle:
-- **Automated Compilation**: Every push to the `main` branch triggers a workflow that automatically compiles all Java files to ensure code integrity.
-- **Manual Trigger**: You can manually trigger a compilation run at any time from the **Actions** tab on GitHub.
-- **Continuous Integration**: Instant feedback on whether your latest changes are syntactically correct and ready for execution.
-
-### 🖱️ How to Compile on GitHub
-Want to compile your code manually?
-1. Go to the **Actions** tab in your repository.
-2. Select **Java Compilation CI** from the left sidebar.
-3. Click the **Run workflow** dropdown button.
-4. Click the green **Run workflow** button to start the compilation.
 
 ---
 
