@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Learning-Progressive-blue?style=for-the-badge" alt="Learning"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status"/>
+  <br/>
+  <img src="https://github.com/binyaaminofficial/learnjava/actions/workflows/compile.yml/badge.svg" alt="Java Compilation CI"/>
 </div>
 
 <hr/>
@@ -59,6 +61,12 @@ Execute the compiled class in the Java Virtual Machine:
 ```bash
 java FileName
 ```
+
+## ⚙️ CI/CD Workflows
+
+This repository is equipped with **GitHub Actions** to automate the development lifecycle:
+- **Automated Compilation**: Every push to the `main` branch triggers a workflow that automatically compiles all Java files to ensure code integrity.
+- **Continuous Integration**: Instant feedback on whether your latest changes are syntactically correct and ready for execution.
 
 ---
 
