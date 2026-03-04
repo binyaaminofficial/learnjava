@@ -66,7 +66,15 @@ java FileName
 
 This repository is equipped with **GitHub Actions** to automate the development lifecycle:
 - **Automated Compilation**: Every push to the `main` branch triggers a workflow that automatically compiles all Java files to ensure code integrity.
+- **Manual Trigger**: You can manually trigger a compilation run at any time from the **Actions** tab on GitHub.
 - **Continuous Integration**: Instant feedback on whether your latest changes are syntactically correct and ready for execution.
+
+### 🖱️ How to Compile on GitHub
+Want to compile your code manually?
+1. Go to the **Actions** tab in your repository.
+2. Select **Java Compilation CI** from the left sidebar.
+3. Click the **Run workflow** dropdown button.
+4. Click the green **Run workflow** button to start the compilation.
 
 ---
 
