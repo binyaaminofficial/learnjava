@@ -1,7 +1,7 @@
 <div align="center">
   <img src="banner.png" alt="Learn Java Banner" width="100%"/>
   <br/>
-  <h1>✨ LEARN JAVA ✨</h1>
+  <h1> LEARN JAVA </h1>
   <p><i>A Premium Collection of Fundamental Java Concepts & Logic</i></p>
   
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
